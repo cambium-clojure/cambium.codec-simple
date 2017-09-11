@@ -1,4 +1,4 @@
-(defproject cambium/cambium.codec-simple "0.9.1-SNAPSHOT"
+(defproject cambium/cambium.codec-simple "0.9.1"
   :description "Simple Cambium codec with no support for nested log attributes"
   :url "https://github.com/cambium-clojure/cambium.codec-simple"
   :license {:name "Eclipse Public License"

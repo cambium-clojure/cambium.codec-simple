@@ -5,7 +5,7 @@ Simple Cambium codec with no support for nested log attributes.
 
 ## Clojars coordinates
 
-`[cambium/cambium.codec-simple "0.9.1-SNAPSHOT"]`
+`[cambium/cambium.codec-simple "0.9.1"]`
 
 
 ## Documentation
