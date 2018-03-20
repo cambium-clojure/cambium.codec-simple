@@ -20,6 +20,10 @@ Running tests:
 $ lein do clean, test
 ```
 
+Running tests across supported Clojure versions:
+```shell
+$ lein do clean, test-all
+```
 
 ## License
 

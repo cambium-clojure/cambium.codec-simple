@@ -13,4 +13,6 @@
              :c17 {:dependencies [[org.clojure/clojure "1.7.0"]]}
              :c18 {:dependencies [[org.clojure/clojure "1.8.0"]]}
              :c19 {:dependencies [[org.clojure/clojure "1.9.0"]]}
-             :dln {:jvm-opts ["-Dclojure.compiler.direct-linking=true"]}})
+             :dln {:jvm-opts ["-Dclojure.compiler.direct-linking=true"]}}
+  :aliases {"test-all" ["with-profile" "c15:c16:c17:c18:c19" "test"]})
+
