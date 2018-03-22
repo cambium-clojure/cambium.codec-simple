@@ -1,8 +1,8 @@
 # cambium.codec-simple - TODO and Change Log
 
-## [WIP] 0.9.2 / 2017-March-??
+## 0.9.2 / 2017-March-22
 
-- [Todo] Marker release
+- Marker release
 
 
 ## 0.9.1 / 2017-September-11

@@ -1,11 +1,12 @@
-(defproject cambium/cambium.codec-simple "0.9.2-SNAPSHOT"
+(defproject cambium/cambium.codec-simple "0.9.2"
   :description "Simple Cambium codec with no support for nested log attributes"
   :url "https://github.com/cambium-clojure/cambium.codec-simple"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :min-lein-version "2.2.0"
   :pedantic? :abort
-  :global-vars {*warn-on-reflection* true
+  :global-vars {*assert* true
+                *warn-on-reflection* true
                 *unchecked-math* :warn-on-boxed}
   :profiles {:provided {:dependencies [[org.clojure/clojure "1.8.0"]]}
              :c15 {:dependencies [[org.clojure/clojure "1.5.1"]]}
