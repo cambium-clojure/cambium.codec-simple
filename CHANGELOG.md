@@ -1,5 +1,10 @@
 # cambium.codec-simple - TODO and Change Log
 
+## 0.9.3 / 2019-May-07
+
+- Marker release
+
+
 ## 0.9.2 / 2017-March-22
 
 - Marker release
