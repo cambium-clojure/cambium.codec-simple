@@ -1,5 +1,10 @@
 # cambium.codec-simple - TODO and Change Log
 
+## [WIP] 1.0.0-rc2 / 2020-September-??
+
+- Drop support for Clojure 1.5.x
+
+
 ## 1.0.0-rc1 / 2019-July-09
 
 - Marker release
